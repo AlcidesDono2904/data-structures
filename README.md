@@ -1,2 +1,5 @@
-# data-structures
-Data structures exercises
+# Data Structures
+Data structures exercises developed in Python.
+
+### Each folder contains:
+- Source code
